@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"Dr kv subbareddy college of engineering for women",
+    "data":["2015-19","80%"]
+},
+  {
+    "degree":"board of intermediate(A.P)",
+    "college":"narayana junior college",
+    "data":["2013-15","93%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"govt high school",
+    "data":["2012-13","85%"]
+  }
+]
+}
